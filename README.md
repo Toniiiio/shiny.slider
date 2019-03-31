@@ -1,5 +1,7 @@
 # shiny.slider
 
+![Slidy_Polars](ezgif-2-c608fe83aa14.gif)
+
 Usage: run app.R
 
 or

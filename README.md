@@ -37,3 +37,5 @@ server <- function(input, output, session){}
 
 shinyApp(ui, server)
 ```
+
+(This project is part of my life long application to RStudio :))

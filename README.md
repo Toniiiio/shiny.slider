@@ -1,6 +1,7 @@
 # shiny.slider
 
 An answer to a stackoverflow question: https://stackoverflow.com/questions/53881741/swipe-effect-for-images-in-shiny-r.
+
 ![Slidy_Polars](ezgif-2-c608fe83aa14.gif)
 
 Usage: run app.R
